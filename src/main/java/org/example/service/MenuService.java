@@ -12,7 +12,7 @@ public class MenuService {
             "\n" + "Digite 2 para consultar vagas ocupadas " +
             "\n" + "Digite 3 registrar saída de veículo " +
             "\n" + "Digite 4 consultar uma vaga pela placa " +
-            "\n" + "Digite 5 para alterar " +
+            "\n" + "Digite 5 para alterar uma entrada " +
             "\n" + "Digite 0 para sair ..." +
             "\n" + "-----------------------------------------";
 
